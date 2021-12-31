@@ -1,4 +1,4 @@
-<img width="234" height="350" align="left" src="https://user-images.githubusercontent.com/66467046/147799172-e21c6ab2-f603-46d3-93e5-9142e8b5e861.png"/> 
+<img width="242" height="360" align="left" src="https://user-images.githubusercontent.com/66467046/147799172-e21c6ab2-f603-46d3-93e5-9142e8b5e861.png"/> 
 
 
 **Xin Liao** 廖鑫
